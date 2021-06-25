@@ -17,6 +17,6 @@ Nessa aplicação foram trabalhados vários conceitos:
 As principais ferramentas foram *React, Typescript, Firebase* 
 
 <p align="center">
-  <img width="460" height="300" src="src/readme/final.gif.crdownload">
+  <img width="460" height="300" src="src/read/final.gif">
 </p>
 
